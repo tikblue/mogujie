@@ -17,4 +17,7 @@ export default {
 
 <style >
 @import "assets/css/base.css";
+.red {
+  color: red;
+}
 </style>
